@@ -1,0 +1,6 @@
+@Recados.API_HostAddress = http://localhost:5001
+
+GET {{Recados.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
